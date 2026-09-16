@@ -22,7 +22,7 @@ Affiliated with the Department of Information Science, School of Mathematics and
 
 - The file "main_Pulsed.m" is the entry point for the pulsed case, while "main_Pulsed_Comparison.m" provides the performance comparison across existing baselines.
 
-- The files "plot_Results_Individual.m" and "plot_Results_Comparison.m" provide the visualization commands for the PF-SLTR solely or its performance comparison against baselines, respectively.
+- The files "plot_Results_Individual.m" and "plot_Results_Comparison.m" provide the visualization commands for the PF-SLTR solely and its comparison against baselines, respectively.
 
 - The folder "Utils" includes supporting functions.
 
